@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>sdv-common</id>
+        <version>1.0.0</version>
+        <authors>michaelgatesdev</authors>
+        <owners>michaelgatesdev</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A common library for Stardew Valley mods</description>
+        <releaseNotes>Bugs fixes and improvements</releaseNotes>
+        <copyright>Copyright 2019</copyright>
+        <tags>stardewvalley stardew valley sdv modding mod common utility utilities library package</tags>
+    </metadata>
+</package>
