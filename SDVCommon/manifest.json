@@ -1,0 +1,10 @@
+{
+  "Name": "common",
+  "Author": "michaelgatesdev",
+  "Version": "1.0.0",
+  "Description": "A common library for SDV",
+  "UniqueID": "michaelgatesdev.common",
+  "EntryDll": "common.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
