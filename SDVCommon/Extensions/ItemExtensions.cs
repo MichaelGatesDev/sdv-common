@@ -35,9 +35,9 @@ namespace SDVCommon.Extensions
                 return ToolType.WateringCan;
             }
 
-            if (item is MeleeWeapon)
+            if (item is MeleeWeapon mw)
             {
-                if (id == 47) return ToolType.Scythe;
+                if (mw.currentParentTileIndex == 47) return ToolType.Scythe;
                 return ToolType.MeleeWeapon;
             }
 
